@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Toni Kross",
+        "image": "./assets/images/Toni-Kross.jpg",
+        "details": "Toni Kroos had a beautiful farewell at the club level Together with Real Madrid won the La Liga and Super treble Spanish Cup and Champions League. But money The 34-year-old defender and the German team lost to Spain again Euro 2024 quarterfinals. Early exit from the tournament at home, causing Kroos to lose in the race won the Golden Ball."
+    },
+    {
+        "name": "Erling Haaland",
+        "image": "./assets/images/Erling-Haaland.jpg",
+        "details": "Erling Haaland declined in the 2023-2024 season but still scored 27 goals to win the Premier League top scorer title. The Norwegian striker became the sixth player to win this award two consecutive seasons, after Alan Shearer, Thierry Henry, Robin van Persie, Harry Kane and Mohamed Salah. The fact that the Norwegian team did not win a ticket to Euro 2024 is a minus point for Haaland when competing for individual titles."
+    },
+    {
+        "name": "Phil Foden",
+        "image": "./assets/images/Phil-Foden.jpg",
+        "details": "Phil Foden has the most explosive 2023-2024 season since the beginning of his career, with 8 assists and 19 goals through 35 matches. He was a key factor in helping Man City set a record of winning the Premier League four times in a row and was voted the best player in the tournament. But being lackluster, not scoring or assisting in 7 matches at the Euro makes it difficult for the 24-year-old player to win the Golden Ball."
+    },
+    {
+        "name": "Kylian Mbappe",
+        "image": "./assets/images/Kylian-Mbappe.jpg",
+        "details": "Kylian Mbappé had 44 goals and 10 assists in 48 matches, helping PSG win 3 domestic titles: French National Cup, Ligue 1 and French Super Cup, before landing at Real Madrid on a free transfer. due. But it is difficult for the French striker to win the Golden Ball because he played weakly in Euro 2024, scoring only one penalty and one assist."
+    },
+    {
+        "name": "Lionel Messi",
+        "image": "./assets/images/Lionel-Messi.jpg",
+        "details": "Lionel Messi is on the list of candidates to win the Golden Ball because Argentina successfully defended the 2024 Copa America title, even though he only scored one goal. At the club level, the 37-year-old star has 14 goals and 11 assists through 15 matches for Inter Miami."
+    },
+    {
+        "name": "Lamine Yamal",
+        "image": "./assets/images/Lamine-Yamal.jpg",
+        "details": "Lamine Yamal caused a lot of ink in the media when he set a series of records at Euro 2024, including youngest player to play, youngest player to create, youngest player to score, youngest player to play in the final, youngest player to play in the final. Youngest player to assist in a final and youngest player to win a Euro. The 17-year-old midfielder had one goal, four assists and was voted the best young player of the tournament. But the fact that Barca went through an empty season made it difficult for Yamal to win the Golden Ball."
+    },
+    {
+        "name": "Dani Carvajal",
+        "image": "./assets/images/Dani-Carvajal.jpg",
+        "details": "Dani Carvajal is the only player on the list of candidates to win both the Champions League and international titles. He is one of three Real Madrid players in the Spanish team that won Euro 2024, alongside Nacho and Joselu - two reserve players. Therefore, if the Golden Ball is judged based on collective success, then the 32-year-old defender is a candidate for the honor."
+    },
+    {
+        "name": "Jude Bellingham",
+        "image": "./assets/images/Jude-Bellingham.jpg",
+        "details": "Jude Bellingham had a successful first season at Real Madrid, with 23 goals and 12 assists in 42 matches in all competitions, helping the club win La Liga, the Spanish Super Cup and the Champions League. The 20-year-old midfielder would have become the strongest candidate to win the Golden Ball if England beat Spain in the Euro 2024 final, but that did not happen. However, Bellingham still has plenty of time to become the first English player to win this individual title since Michael Owen in 2001."
+    },
+    {
+        "name": "Rodri",
+        "image": "./assets/images/Rodri.jpg",
+        "details": "Rodri is as important to Spain as to Pep Guardiola's Man City, in their journey to winning Euro 2024 and the Premier League. In the past 16 months, this midfielder has only lost one match at both club and team level - when he and Man City lost to Man Utd in the FA Cup final. Being elected the best player of Euro 2024 has strengthened Rodri's position in the Golden Ball race."
+    },
+    {
+        "name": "Vinicius",
+        "image": "./assets/images/Vinicius.jpg",
+        "details": "Vinicius scored six goals in his journey to winning the Champions League, including one goal in the final against Dortmund 2-0, and 15 goals in 28 matches in La Liga. But Brazil's elimination from the Copa America quarterfinals is a minus point for the 24-year-old striker's ambition to win the Golden Ball for the first time."
+    }
+]
